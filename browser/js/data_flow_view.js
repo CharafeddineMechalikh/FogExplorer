@@ -54,12 +54,6 @@ class DataFlowView {
             manipulation: {
                 enabled: false
             },
-            // layout: {
-            //     // randomSeed: 11235813
-            //     hierarchical: {
-            //         direction: "LR"
-            //     }
-            // },
             physics: {
                 enabled: true,
                 solver: "forceAtlas2Based"
