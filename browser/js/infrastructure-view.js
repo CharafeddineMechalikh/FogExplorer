@@ -55,8 +55,7 @@ class InfrastructureView {
             manipulation: {
                 enabled: false
             },
-            layout: {
-                // randomSeed: 11235813
+            layout: { 
             },
             physics: {
                 enabled: true,
