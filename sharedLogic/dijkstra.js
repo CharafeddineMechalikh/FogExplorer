@@ -84,11 +84,6 @@ function dijkstra(graph, startNodeName, endNodeName) {
 
     return results;
 }
-
-//console.log(dijkstra(problem, "start", "finish"));
-//console.log(dijkstra(problem, "A", "B"));
-//console.log(dijkstra(problem, "A", "start"));
-
 // NODE COMPATIBILITY
 if (module !== undefined) {
     module.exports = {
